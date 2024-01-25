@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097537432908",
+    "firebase_url": "https://allin1-1fd5d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "allin1-1fd5d",
+    "storage_bucket": "allin1-1fd5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097537432908:android:1fddf7c76236affd60b3e9",
+        "android_client_info": {
+          "package_name": "com.example.lexicdict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097537432908-9o7lm1gvqkb9h1efo9tipkqpdns9vlif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYMP12e63fB_kIM3WZglptCcR-pJY_O78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097537432908-9o7lm1gvqkb9h1efo9tipkqpdns9vlif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
